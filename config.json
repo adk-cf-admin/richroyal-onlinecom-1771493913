@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1B3854",
+            "lang-select-color": "#222829",
+            "bg-light": "#1B3854",
+            "welcome-bonus-bg": "#1B3854",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#254e76",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#386ca0",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#386ca0",
+            "yellow-button": "#7A0545",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1B3854",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#1B3854",
+            "faq-label": "#1B3854",
+            "bg-footer": "#1B3854",
+            "copyright": "#e7e7d5",
+            "starColor": "#7A0545",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3285"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3287",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Rich Royal Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3288",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Rich Royal"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Rich Royal",
+                    "title": "Rich Royal — Best Online Casino Australia | A$11,250 Bonus",
+                    "description": "Play at Rich Royal Casino Australia with 12,600+ pokies, live dealers & 275% bonus up to A$11,250. Secure AUD gaming platform. Join Aussie players today!\n",
+                    "canonical": "richroyal-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3289",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "richroyal-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3290"
+                },
+                "hero": {
+                    "title": "Australia's Premier Online Casino & Sportsbook",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3291",
+                    "imageSizeModifier": 5,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3292",
+                    "mobileImageSizeModifier": 2,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Australia? We hold a valid gaming licence with RNG-certified fair play, support AUD deposits via local payment methods, and offer 24\/7 English-speaking support. Here's why Aussie players choose Rich Royal:\n",
+                    "items": [
+                        "275% Welcome Bonus up to A$11,250 + 225 Free Spins across 4 deposits",
+                        "12,600+ certified pokies & live games from Pragmatic Play & Evolution",
+                        "Instant AUD deposits via Visa, Mastercard, Skrill, Neteller & crypto",
+                        "5-Level VIP Program with personal manager, priority withdrawals & cashback",
+                        "SSL 256-bit encryption protecting 100% of Australian player transactions",
+                        "24\/7 customer support in English via live chat and email, every day"
+                    ],
+                    "advantagesAfterText": "Join thousands of satisfied Aussie players enjoying secure, licensed gaming certified by independent auditors. Our dedicated English-speaking support team is ready to assist you 24\/7, 365 days a year.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Rich Royal App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3293",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Rich Royal App",
+                    "mobileGooglePlayImageTitle": "Rich Royal App",
+                    "mobileIosImageTitle": "Rich Royal App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Rich Royal Casino",
+                        "description1": "Rich Royal is a premier online casino and sportsbook built for Australian players. Licensed and certified, we deliver 12,600+ games from leading providers with a royal gaming experience tailored to the Aussie market.\n",
+                        "items": [
+                            "Launched as a full casino & sportsbook platform for Aussie players",
+                            "Expanded to 12,600+ certified games from top industry providers",
+                            "Introduced Bonus Crab, Challenges & Tournaments for Aussie members",
+                            "Achieved SSL 256-bit encryption and RNG certification for fair play"
+                        ],
+                        "description2": "We operate under a valid gaming licence with SSL 256-bit encryption protecting all AUD transactions. Every game is RNG-tested for certified random outcomes and fair play for Australian players.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3294",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep expanding our pokies and live casino portfolio for Aussie players. Our responsible gaming tools and 24\/7 English support make us the trusted choice. Start your royal adventure in Australia today!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio for AU Players",
+                        "description": "<h2>Complete Game Portfolio for Australian Players at Rich Royal Casino<\/h2>\n\n<p>At Rich Royal Casino, we take pride in offering Australian players one of the most comprehensive gaming libraries available on any online casino platform today. Our game collection exceeds 12,600 certified titles, sourced from over 60 industry-leading providers including Pragmatic Play, Evolution Gaming, NetEnt, Microgaming, Play'n GO, and Hacksaw Gaming. Whether you're chasing the excitement of Aussie-favourite pokies, the sophistication of live dealer tables, or the adrenaline of progressive jackpots, we have everything you need under one royal roof. Every title in our library is RNG-tested and certified for fair play, ensuring that every spin, every hand, and every bet delivers genuine random outcomes. Our platform is fully optimised for Australian players, supporting AUD transactions with seamless mobile access from any iOS or Android device.<\/p>\n\n<h3>Pokies & Slots — Australia's Most Loved Casino Games<\/h3>\n\n<p>Pokies are the beating heart of Australian gambling culture, and our collection sets the gold standard for Aussie online gaming. We feature thousands of licensed slot titles spanning every theme, mechanic, and volatility level imaginable. From classic 3-reel fruit machines to modern 6-reel video pokies with cascading reels and cluster pays, our library caters to every preference. Looking for the latest releases? Our New Games section updates weekly with fresh titles from top studios, keeping your gaming experience always exciting and current.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Pokies:<\/strong> Hundreds of traditional 3-reel and 5-reel slot machines with familiar fruit symbols, bar icons, and sevens. Perfect for Aussie players who love straightforward gameplay with solid RTP values averaging 96.2% across the category.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Pokies:<\/strong> Dynamic reel mechanics from BTG (Big Time Gaming) and licensed Megaways providers deliver up to 117,649 ways to win on a single spin. Popular titles include Bonanza Megaways (RTP 96%), Buffalo King Megaways (RTP 96.51%), and Dog House Megaways (RTP 96.55%).<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy Pokies:<\/strong> Skip straight to the most rewarding part of the game with our Bonus Buy selection. Titles like Money Train 4 (max win 100,000x), Razor Shark, and Wanted Dead or a Wild let Australian players purchase direct access to free spins and bonus rounds instantly.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Instant Win Games:<\/strong> Fast-paced instant casino games that deliver quick results without the need for extended sessions. These titles are ideal for Aussie mobile players who prefer short, punchy gaming experiences that pack maximum excitement into minimum time.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>New & Popular Pokies:<\/strong> Our curated Popular category showcases the titles that Australian players love most right now. Updated in real time, this section helps you discover trending games from providers like Pragmatic Play, Hacksaw Gaming, and Relax Gaming.<\/li>\n<\/ul>\n\n<h3>Progressive Jackpot Games — Chase Life-Changing Wins<\/h3>\n\n<p>Our jackpot collection features some of the most sought-after progressive prize pools in the Australian online casino market. Jackpot pokies accumulate prize money across the network with every spin, building to astronomical sums that can transform your life in an instant. We partner with top jackpot providers to ensure our Aussie players always have access to the biggest live prize pools available online.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Network Progressive Jackpots:<\/strong> Titles linked across the global provider network, accumulating prize pools that regularly reach into the millions of AUD. These jackpots can trigger on any spin regardless of bet size, giving every Australian player a genuine shot at a life-changing win.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Local & In-House Jackpots:<\/strong> Our platform also features standalone jackpot games with dedicated prize pools that grow faster due to a focused player base. These often offer more frequent payouts compared to wide-area progressive networks.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jackpot Game Shows:<\/strong> Innovative hybrid titles that combine slot mechanics with game show entertainment, often featuring jackpot side bets and bonus prize wheels. These games are especially popular among Australian live casino enthusiasts.<\/li>\n<\/ul>\n\n<h3>Live Casino — Play with Real Dealers in Real Time<\/h3>\n\n<p>Our live casino section brings the authentic atmosphere of a premium casino floor directly to Aussie players, streamed in HD from professional studios powered by Evolution Gaming and Pragmatic Play Live. With over 200 live dealer tables available around the clock, you can experience the thrill of real-money gaming with genuine human dealers, interactive gameplay, and the social excitement of live chat. All tables accept AUD bets, and our Australian players enjoy dedicated English-speaking dealers who understand local gaming preferences. Whether you're a seasoned blackjack strategist or a roulette enthusiast looking for your lucky number, our live lobby has the perfect table for you.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> Choose from European Roulette (RTP 97.3%), Lightning Roulette with random multipliers up to 500x, Speed Roulette for fast-paced sessions, Immersive Roulette with cinematic slow-motion replays, and French Roulette featuring the La Partage rule that reduces the house edge on even-money bets.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Blackjack (RTP 99.5%), Infinite Blackjack with unlimited seating for Aussie players, Lightning Blackjack with multiplier cards up to 25x, Power Blackjack with the option to double, triple, or quadruple down, and VIP Blackjack tables with stakes up to A$15,000 per hand.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat for Australian players who prefer quick rounds, Baccarat Squeeze with theatrical card reveals, No Commission Baccarat, and Lightning Baccarat with random multipliers that can boost payouts by up to 512x on winning banker or player bets.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker:<\/strong> Three Card Poker, Casino Hold'em (RTP 97.84%), Caribbean Stud Poker with a progressive jackpot side bet, Texas Hold'em Bonus Poker, and Ultimate Texas Hold'em. Professional dealers guide Aussie players through every hand with clear English commentary.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Game Shows:<\/strong> Crazy Time (max win 20,000x your bet), Monopoly Live combining iconic board game nostalgia with real-money casino action, Mega Ball bingo-lottery hybrid with multipliers up to 1,000x, Deal or No Deal Live, Dream Catcher money wheel, and Sweet Bonanza CandyLand. These unique titles are among the most-played games by Australian online casino enthusiasts.<\/li>\n<\/ul>\n\n<h3>Sports Betting — Wager Like Royalty on Australian & Global Markets<\/h3>\n\n<p>Beyond our casino library, Rich Royal offers Australian players a fully-featured sportsbook with competitive odds across local and international leagues. Aussie punters can bet on AFL, NRL, cricket, rugby, tennis, football, basketball, e-sports, and dozens of other sports. Our live betting feature lets you place wagers in real time as the action unfolds, with odds updating dynamically to reflect current match conditions. The sportsbook includes a customisable interface where Australian players can set their preferred time zone (AEST\/AEDT), odds format, and language for a fully personalised wagering experience.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Australian Sports Markets:<\/strong> AFL Grand Final, NRL State of Origin, BBL cricket, A-League football, and all major Australian sporting events are covered with extensive pre-match and in-play markets. We offer special promotions tailored to Aussie sporting seasons and major local events.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>International Leagues:<\/strong> Premier League, Champions League, NBA, NFL, and global tennis tournaments including Australian Open are all available with deep market coverage, competitive odds, and same-game multi-bet options for advanced Aussie punters.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>E-Sports Betting:<\/strong> We cover CS2, League of Legends, Dota 2, Valorant, and other top competitive gaming events. Australian e-sports fans can enjoy dedicated betting markets on both local ANZ tournaments and international championships.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live In-Play Betting:<\/strong> Place real-time bets as matches progress with continuously updated odds. Cash-out functionality is available on selected markets, giving Aussie bettors control over their wagers and the ability to lock in profits or limit losses before the final whistle.<\/li>\n<\/ul>\n\n<h3>Special Features & Gamification for Aussie Players<\/h3>\n\n<p>What truly sets Rich Royal apart from other Australian online casinos is our unique gamification ecosystem. We believe gaming should be more than just spinning reels — it should be an adventure. That's why we've built an entire suite of special features designed to keep Aussie players engaged, rewarded, and entertained at every step of their royal journey.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Crab Game:<\/strong> Our unique Bonus Crab feature gives you crab credits with every qualifying deposit. Collect enough crabs and you can play our exclusive claw machine game for prizes including bonus money, free spins, and exclusive rewards — a feature you won't find at other Australian online casino platforms.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Challenges System:<\/strong> Complete one-time, weekly casino, and sports challenges to earn coins. Challenges are tailored to different player preferences — whether you love pokies, live dealer games, or sports betting, there's always a challenge waiting for you to conquer.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Tournaments:<\/strong> Compete against other registered members in regular prize-pool tournaments. Australian players can climb the leaderboard by accumulating points on selected games, with cash prizes and free spins distributed to top finishers. Weekly and monthly tournaments run throughout the year.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Exclusive Shop:<\/strong> Every coin you earn through challenges and gameplay goes into your shop balance. Exchange your coins in our Exclusive Shop for free spins, free bets, bonus money, and other premium rewards — giving your gameplay real tangible value beyond standard wagering.<\/li>\n<\/ul>\n\n<p>At Rich Royal Casino, we're committed to delivering an unmatched royal gaming experience to Australian players. With 12,600+ certified games, a live sportsbook, exclusive gamification features, and round-the-clock AUD support, our platform is designed from the ground up for Aussie players who expect nothing but the best. Join our growing community of Australian members and discover why Rich Royal reigns supreme in online casino entertainment down under.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking & Bonuses for AU Players",
+                        "description": "<h2>Banking Methods & Bonus Offers for Australian Players at Rich Royal<\/h2>\n\n<p>At Rich Royal Casino, we understand that Australian players need fast, secure, and flexible financial options to enjoy their gaming experience to the fullest. We support a comprehensive range of AUD-compatible payment methods, ensuring seamless deposits and withdrawals for every Aussie member. Whether you prefer traditional banking cards, modern e-wallets, or cutting-edge cryptocurrency, our cashier section covers every preference with transparent limits and competitive processing times. Every transaction on our platform is protected by SSL 256-bit encryption, and all deposits and withdrawals are processed without hidden fees on our end. Our minimum deposit starts at a player-friendly A$30, making Rich Royal accessible to Aussie players at every level.<\/p>\n\n<h3>What Payment Methods Are Available for Australian Players?<\/h3>\n\n<p>Australian players at Rich Royal Casino can access a wide selection of deposit and withdrawal methods designed specifically for the Aussie market. We accept all major international cards alongside popular global e-wallets and leading cryptocurrencies — ensuring that every player finds a method that suits their lifestyle and banking preferences. AUD is fully supported across all methods, eliminating currency conversion fees and giving Australian players a truly localised financial experience.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #8a184e;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Speed<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #183554;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #11253a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #183554;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #11253a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #183554;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>MiFinity<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #11253a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bitcoin (BTC)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$100<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #183554;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Litecoin (LTC)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #11253a;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Dogecoin (DOGE)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #183554;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">A$30<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1–5 days<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>How Fast Are Withdrawals for Australian Players?<\/h3>\n\n<p>We process Australian withdrawal requests as quickly as possible to ensure you receive your winnings without unnecessary delays. E-wallet withdrawals, including Skrill and Neteller, are typically processed within 24–48 hours from the time of request approval. Cryptocurrency withdrawals via Bitcoin, Litecoin, or Dogecoin are among the fastest options available, with most AUD-equivalent crypto payouts completing within a few hours once your account verification is confirmed. Bank transfers, while slower at 3–5 business days, support the largest withdrawal amounts for Australian players who prefer direct bank-to-bank transactions. The minimum withdrawal for fiat methods is A$30, while Bitcoin withdrawals start at A$100.<\/p>\n\n<h3>Welcome Bonus Package — 275% up to A$11,250 + 225 Free Spins<\/h3>\n\n<p>Our welcome bonus package is one of the most generous currently available to Australian online casino players. New Aussie members receive a 275% bonus spread across their first four deposits, with a total potential value of A$11,250 plus 225 free spins and 1 Bonus Crab. This multi-deposit structure means you benefit from premium bonus value every time you reload, not just on your first deposit. Each stage of the welcome package is designed to match different bankroll sizes, so whether you're depositing A$30 or A$500, you'll maximise your welcome reward. The standard wagering requirement is 50x the bonus amount, which must be completed within the eligible time frame stated in the promotion terms.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>First Deposit — 100% up to A$1,500 + 100 Free Spins + 1 Bonus Crab:<\/strong> Kick off your Aussie gaming adventure with a 100% match on your first deposit of minimum A$30. Receive 100 free spins for use on selected pokies plus your first Bonus Crab credit for our exclusive claw machine reward game.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Second Deposit — 75% up to A$2,250 + 75 Free Spins:<\/strong> Your second qualifying deposit earns a 75% match bonus up to A$2,250 plus an additional 75 free spins on selected games. This tier is ideal for Australian players building momentum after their first winning sessions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Third Deposit — 50% up to A$3,000 + 50 Free Spins:<\/strong> Continue your royal journey with a 50% bonus up to A$3,000 and 50 more free spins. By this stage, Australian players have a substantial bonus bankroll to explore our full library of 12,600+ certified games.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Fourth Deposit — 50% up to A$4,500:<\/strong> The final welcome tier delivers a 50% match up to A$4,500, bringing your total welcome package to a royal A$11,250. This final boost sets Australian players up for extended, rewarding gaming sessions across pokies, live casino, and sportsbook.<\/li>\n<\/ul>\n\n<h3>Sportsbook Welcome Bonus — 100% up to A$150<\/h3>\n\n<p>Australian sports bettors are also catered for with a dedicated sportsbook welcome bonus of 100% up to A$150 on your first sports deposit. This bonus applies to bets on any sports market with minimum odds of 2.00 for single bets and 1.50 for multi-bets, making it ideal for Aussie punters who enjoy backing AFL, NRL, cricket, and international football markets. The sportsbook bonus is credited automatically after your qualifying deposit and can be used immediately on live betting markets.<\/p>\n\n<h3>Ongoing Promotions & VIP Rewards for Aussie Players<\/h3>\n\n<p>At Rich Royal, the rewards don't stop after your welcome package. We provide Australian players with a continuous stream of promotions, cashback deals, and VIP benefits designed to keep every session exciting and rewarding. Our 20% weekly cashback offer returns a portion of your net losses, providing a genuine safety net for Aussie players who experience a tough week at the tables or pokies. Furthermore, our tiered VIP program rewards loyalty with increasingly exclusive perks as you climb through five levels.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>VIP Levels 1–2 (Royal Initiate & Noble):<\/strong> Access to the Bonus Shop where Australian members can exchange earned coins for free spins, free bets, and bonus money. Basic cashback benefits and priority access to new game launches also apply at this tier.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>VIP Level 3 (Count):<\/strong> Unlocks enhanced cashback deals with reduced or zero wagering requirements on selected offers. Higher withdrawal limits take effect, allowing Australian high rollers to access larger payouts more efficiently from their Rich Royal account.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>VIP Levels 4–5 (Duke & Royal):<\/strong> The pinnacle of our VIP program delivers a personal VIP manager dedicated to your account, priority withdrawal processing for same-day payouts, the highest withdrawal limits on the platform, and exclusive bonus offers tailored specifically to your gaming preferences as an elite Australian member.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Cashback (20%):<\/strong> Receive 20% of your net losses back every week, credited to your balance with low wagering conditions. This ongoing promotion is available to all registered Australian players and provides consistent value regardless of your preferred casino game or betting market.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Regular Tournaments & Challenges:<\/strong> Compete weekly in prize-pool tournaments on selected pokies and casino games. Complete casino and sportsbook challenges to earn coins redeemable in the Exclusive Shop. These features provide an additional layer of reward for Aussie players who engage regularly with our platform.<\/li>\n<\/ul>\n\n<p>Rich Royal Casino is dedicated to providing Australian players with a transparent, rewarding, and responsible banking and bonus experience. From our AUD-friendly payment methods and lightning-fast crypto withdrawals to our industry-leading welcome package and 5-level VIP program, we ensure every dollar you deposit works harder for you. Claim your A$11,250 welcome bonus today and join thousands of Aussie players who have already discovered the royal difference at Rich Royal Casino Australia.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim the welcome bonus as an Australian player?",
+                            "answer": "Register your account and deposit minimum A$30 via Visa, Mastercard, Skrill, or crypto. Your 100% bonus up to A$1,500 + 100 free spins + 1 Bonus Crab credits automatically. Wagering requirement is 50x the bonus within the promo period. Our 24\/7 English support assists via live chat anytime.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for Australian players?",
+                            "answer": "We accept Visa, Mastercard, Skrill, Neteller, MiFinity, Bitcoin, Litecoin, Dogecoin, USDT, and bank transfer — all supporting AUD. Minimum deposit is A$30 for most methods. E-wallets and crypto process instantly, while bank transfers take 1–5 business days. No conversion fees apply to AUD transactions.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at Rich Royal Casino Australia?",
+                            "answer": "E-wallet withdrawals via Skrill and Neteller process within 24–48 hours after approval. Crypto payouts in Bitcoin or Litecoin typically complete within a few hours. Bank transfers take 3–5 business days. Minimum withdrawal is A$30 for fiat and A$100 for Bitcoin. VIP members receive priority same-day processing.\n"
+                        },
+                        {
+                            "title": "Is Rich Royal Casino licensed and safe for real money gaming?",
+                            "answer": "Yes, Rich Royal operates under a valid gaming licence and uses SSL 256-bit encryption to protect all Australian player transactions and personal data. Every game is RNG-tested for certified random outcomes and fair play. Our responsible gaming tools include deposit limits, self-exclusion, and account verification for secure Australian gaming.\n"
+                        },
+                        {
+                            "title": "Can I play pokies and live casino on my mobile in Australia?",
+                            "answer": "Absolutely. Rich Royal is fully optimised for mobile play on any iOS or Android device — no app download needed. Our complete library of 12,600+ pokies, live dealer tables, and sportsbook markets are accessible via mobile browser with full functionality. Play from anywhere in Australia with a stable internet connection.\n"
+                        },
+                        {
+                            "title": "What is the Bonus Crab game and how does it work?",
+                            "answer": "The Bonus Crab is our exclusive gamification feature unique to Rich Royal Casino. You earn Bonus Crab credits on qualifying deposits, then use them to play our virtual claw machine game. Prizes include free spins, bonus money, and exclusive rewards. It's available to all registered Australian members from their first deposit.\n"
+                        },
+                        {
+                            "title": "How does the VIP program work for Australian players?",
+                            "answer": "Our 5-level VIP program rewards Aussie players as they climb from Level 1 (Basic) to Level 5 (Royal). Higher levels unlock enhanced cashback, increased withdrawal limits, a dedicated personal VIP manager, and priority payout processing. VIP status is earned through regular gameplay across our pokies, live casino, and sportsbook sections.\n"
+                        },
+                        {
+                            "title": "What sports can I bet on at Rich Royal Sportsbook?",
+                            "answer": "Our sportsbook covers AFL, NRL, BBL cricket, A-League football, tennis including Australian Open, NBA, Premier League, Champions League, and e-sports including CS2 and League of Legends. Live in-play betting is available on all major markets. Australian players can customise odds format and time zone (AEST\/AEDT) for a fully local experience.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
